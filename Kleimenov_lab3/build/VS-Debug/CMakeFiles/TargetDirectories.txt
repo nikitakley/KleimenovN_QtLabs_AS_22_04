@@ -1,0 +1,8 @@
+D:/Repos2024/Kleimenov_QtLab/Kleimenov_lab3/build/VS-Debug/CMakeFiles/Kleimenov_lab3.dir
+D:/Repos2024/Kleimenov_QtLab/Kleimenov_lab3/build/VS-Debug/CMakeFiles/edit_cache.dir
+D:/Repos2024/Kleimenov_QtLab/Kleimenov_lab3/build/VS-Debug/CMakeFiles/rebuild_cache.dir
+D:/Repos2024/Kleimenov_QtLab/Kleimenov_lab3/build/VS-Debug/CMakeFiles/list_install_components.dir
+D:/Repos2024/Kleimenov_QtLab/Kleimenov_lab3/build/VS-Debug/CMakeFiles/install.dir
+D:/Repos2024/Kleimenov_QtLab/Kleimenov_lab3/build/VS-Debug/CMakeFiles/install/local.dir
+D:/Repos2024/Kleimenov_QtLab/Kleimenov_lab3/build/VS-Debug/CMakeFiles/Kleimenov_lab3_autogen_timestamp_deps.dir
+D:/Repos2024/Kleimenov_QtLab/Kleimenov_lab3/build/VS-Debug/CMakeFiles/Kleimenov_lab3_autogen.dir
